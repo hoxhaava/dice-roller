@@ -1,16 +1,7 @@
-# first_app
+# Dice Roller App
 
-A new Flutter project.
+This is a simple Flutter app that simulates a dice roll. When the user clicks a button, the app displays a random dice face.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this app, clone the repository and open it in your preferred Flutter development environment.
